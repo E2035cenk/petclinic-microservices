@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
----
->>>>>>> feature/msp-17
 - hosts: role_grand_master
   tasks:
   - name: Copy docker compose file to grand master
